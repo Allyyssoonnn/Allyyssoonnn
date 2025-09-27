@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Alyson Henrique  
 
-💻 **Desenvolvedor | 23 anos | Focado em construir aplicações modernas**  
+💻 **Desenvolvedor | 24 anos | Focado em construir aplicações modernas**  
 
 Sou um desenvolvedor full-stack com **7+ anos de experiência**, criando soluções funcionais, escaláveis e que realmente fazem diferença. Tenho paixão por transformar ideias em produtos digitais de impacto — desde plataformas SaaS até aplicativos mobile.  
 
